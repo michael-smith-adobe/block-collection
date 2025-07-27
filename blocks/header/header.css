@@ -162,6 +162,7 @@ header nav[aria-expanded='true'] .nav-sections {
   display: block;
   visibility: visible;
   align-self: start;
+  margin-top: 20px;
 }
 
 header nav .nav-sections ul {
