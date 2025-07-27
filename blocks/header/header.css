@@ -16,7 +16,7 @@ header nav {
   gap: 0 24px;
   margin: auto;
   max-width: 1248px;
-  height: var(--nav-height);
+  height: 88px; /*var(--nav-height);*/
   padding: 0 24px;
   font-family: var(--body-font-family);
 }
@@ -172,7 +172,7 @@ header nav .nav-sections ul {
 
 header nav .nav-sections ul > li {
   font-weight: 500;
-  color: #fff;
+  color: #f5f5f5;
 }
 
 header nav .nav-sections ul > li > ul {
