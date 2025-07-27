@@ -19,7 +19,7 @@ header nav {
   height: var(--nav-height);
   padding: 0 24px;
   font-family: var(--body-font-family);
-  font-color: #fff;
+  font-color: white;
 }
 
 header nav[aria-expanded='true'] {
@@ -173,6 +173,7 @@ header nav .nav-sections ul {
 
 header nav .nav-sections ul > li {
   font-weight: 500;
+  font-color: white;
 }
 
 header nav .nav-sections ul > li > ul {
