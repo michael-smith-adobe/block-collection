@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/aem-sandbox/block-collection/
+    url: https://content.da.live/michael-smith-adobe/block-collection/
     type: markup
