@@ -193,6 +193,8 @@ header nav .nav-sections ul > li > ul > li {
 
   header nav[aria-expanded='true'] .nav-sections {
     align-self: unset;
+    position: fixed;
+    right: 100px;
   }
 
   header nav .nav-sections .nav-drop {
