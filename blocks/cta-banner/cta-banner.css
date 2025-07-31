@@ -10,14 +10,20 @@ main > .section > .cta-banner-wrapper {
     display: block;
     width: 100%;
     max-width: 2000px;
-    height: 80px;
+    height: 200px;
     text-align: center;
-    background-color: #0079c1;
+    background-color: #202945;
 }
 
 .ctabanner .ctalink {
-    font-size: 20px;
-    line-height: 18px;
-    padding-top: 15px;
+    font-weight: 400;
+    font-size: 2rem;
+    padding-top: 75px;
     --link-color: #fff;
+    color: #fff;
+}
+
+.ctabanner .sublink {
+    font-size: 0.8rem;
+    color: #95785e;
 }
